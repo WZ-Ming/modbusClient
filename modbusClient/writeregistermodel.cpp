@@ -1,4 +1,5 @@
 ﻿#include "writeregistermodel.h"
+#pragma execution_character_set("utf-8")
 
 WriteRegisterModel::WriteRegisterModel(int beginAddress, int valueNumber, QObject *parent)
     : QAbstractTableModel(parent)

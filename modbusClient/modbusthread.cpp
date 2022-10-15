@@ -1,4 +1,5 @@
-#include "modbusthread.h"
+﻿#include "modbusthread.h"
+#pragma execution_character_set("utf-8")
 
 ModbusThread::ModbusThread()
 {
