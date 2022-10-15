@@ -1,1 +1,2 @@
-# modbusClient
+# 简介
+测试将modbusClient对象放到另一个线程中与modbus服务端进行modbus通信，再通过信号槽的方式将信息发给gui线程。
